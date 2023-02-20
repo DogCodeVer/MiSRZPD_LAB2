@@ -1,0 +1,64 @@
+*{
+    margin-bottom: 50px;
+}
+.zad1 td{
+    border: 1px solid black;
+}
+
+.zad1 table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.zad2 td{
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;
+}
+.zad2 table{
+    border-collapse: collapse;
+}
+
+.zad3 td{
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;
+    padding: 5px 10px;
+}
+.zad3 table{
+    border-collapse: collapse;
+}
+
+.zad4 th{
+    border: 1px solid black;
+    padding: 10px;
+}
+.zad4 td{
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;
+    padding: 5px 10px;
+}
+.zad4 table{
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+}
+
+.zad5 table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.zad5 td, .zad5 th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.zad6 table{
+    border-collapse: collapse;
+}
+
+.zad6 table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
